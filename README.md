@@ -4,21 +4,21 @@
 
 Transit enforcement systems generate large volumes of violation data daily from bus lane cameras, GPS trackers, and field officers. These logs are mission-critical for enforcing traffic rules, reporting violations, and ensuring road safety. However, raw violation logs often suffer from poor data quality, such as:
 
-Missing timestamps or location data
+* Missing timestamps or location data.
 
-Duplicated violation records
+* Duplicated violation records.
 
-Schema mismatches from upstream systems
+* Schema mismatches from upstream systems.
 
-Invalid geolocation values outside city boundaries
+* Invalid geolocation values outside city boundaries.
 
 Without proper validation, these issues can lead to:
 
-Misinformed decision-making
+* Misinformed decision-making
 
-Legal or public trust concerns
+* Legal or public trust concerns
 
-Rejected reports by partner agencies
+* Rejected reports by partner agencies
 
 🌟 Objective
 
