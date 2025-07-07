@@ -78,3 +78,9 @@ Implemented 4 rules:
 * Run data_quality_engine.py
 
 * Check output files: scorecard .csv/.xlsx
+
+![camera](https://img.icons8.com/ios-filled/20/000000/camera.png) Project Screenshot of Data Quality Scorecard after running data quality engine:
+
+![image](https://github.com/user-attachments/assets/9ed3a8db-b69d-4d7e-a341-630e102b1d8b)
+
+
