@@ -1,5 +1,8 @@
 # Automated-Data-Quality-Rules-Engine-for-Transit-Violation-Logs
 
+![Workflow](https://github.com/user-attachments/assets/36fa6226-20c4-405e-9f34-da3de74bde27)
+
+
 🧩 Problem Statement
 
 Transit enforcement systems generate large volumes of violation data daily from bus lane cameras, GPS trackers, and field officers. These logs are mission-critical for enforcing traffic rules, reporting violations, and ensuring road safety. However, raw violation logs often suffer from poor data quality, such as:
